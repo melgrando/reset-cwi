@@ -1,2 +1,3 @@
-# reset-cwi
-Treinamento QA da CWI
+# Programa Reset da CWI
+
+Treinamento QA
